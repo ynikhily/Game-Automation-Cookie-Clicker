@@ -1,6 +1,6 @@
 # Game-Automation-Cookie-Clicker
 </br>
-<b>Check out the Cookie Clicker game at http://orteil.dashnet.org/experiments/cookie/</b></br>
+<b>Check out this awesome Cookie Clicker game at http://orteil.dashnet.org/experiments/cookie/</b></br>
 </br>
 DESCRIPTION:</br>
 -- This code automates the cookie clicker game using selenium with python.</br>
